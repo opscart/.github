@@ -3,11 +3,11 @@
 
 <div align="center">
   
-  <!-- Logo / Hero -->
+  <!-- Logo with dark/light mode support -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://via.placeholder.com/200x200/1E293B/3B82F6?text=⚙️🚀">
-    <source media="(prefers-color-scheme: light)" srcset="https://via.placeholder.com/200x200/F9FAFB/3B82F6?text=⚙️🚀">
-    <img alt="OpsCart Logo" src="https://via.placeholder.com/200x200/F9FAFB/3B82F6?text=⚙️🚀" width="120">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opscart/.github/main/images/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/opscart/.github/main/images/logo-light.png">
+    <img alt="OpsCart Logo" src="https://raw.githubusercontent.com/opscart/.github/main/images/logo-light.png" width="180">
   </picture>
 
   # OpsCart
