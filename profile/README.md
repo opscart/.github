@@ -44,7 +44,7 @@ We solve the **gap between intention and production** — the 30-minute firefigh
 
 ## 🎯 Why OpsCart Exists
 
-I’ve spent 15 years in DevOps — the last 7 at GlobalLogic (Hitachi Group), handling **500+ core pharmaceutical clusters** and enterprise-scale Kubernetes.
+I’ve spent 15 years in DevOps — the last 7 at GlobalLogic (Hitachi Group), handling **500+ core , Retail and pharmaceutical clusters** and enterprise-scale Kubernetes.
 
 **The pattern is always the same:**
 1. PowerPoint architecture looks perfect.
