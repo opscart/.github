@@ -19,7 +19,7 @@
 
   [![Website](https://img.shields.io/badge/opscart.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://opscart.com)
   [![GitHub](https://img.shields.io/badge/GitHub-@opscart-181717?style=for-the-badge&logo=github)](https://github.com/opscart)
-  [![Twitter](https://img.shields.io/badge/Twitter-@shamsher_khan-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/shamskhan22)
+  [![Twitter](https://img.shields.io/badge/Twitter-@shamskhan22-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/shamskhan22)
 
   ---
 
