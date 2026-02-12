@@ -2,7 +2,7 @@
 <!-- Author: Shamsher Khan, IEEE Senior Member -->
 
 <div align="center">
-  <img src="/images/shamsher-khan-profile.jpg" 
+  <img src="https://opscart.com/wp-content/uploads/2026/01/IMG_1664.png" 
        alt="Shamsher Khan, DevOps Engineer" 
        width="180" 
        style="border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px;">
