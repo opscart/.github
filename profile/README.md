@@ -2,6 +2,13 @@
 <!-- Author: Shamsher Khan, IEEE Senior Member -->
 
 <div align="center">
+  <img src="/images/shamsher-khan-profile.jpg" 
+       alt="Shamsher Khan, DevOps Engineer" 
+       width="180" 
+       style="border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px;">
+</div>
+
+<div align="center">
   
   <!-- Logo with dark/light mode support -->
   <picture>
