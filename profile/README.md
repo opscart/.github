@@ -2,13 +2,6 @@
 <!-- Author: Shamsher Khan, IEEE Senior Member -->
 
 <div align="center">
-  <img src="http://opscart.com/wp-content/uploads/2026/02/shamsher-khan-profile.jpg" 
-       alt="Shamsher Khan, DevOps Engineer" 
-       width="180" 
-       style="border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px;">
-</div>
-
-<div align="center">
   
   <!-- Logo with dark/light mode support -->
   <picture>
@@ -72,7 +65,10 @@ I’ve spent 15 years in DevOps — the last 7 at GlobalLogic (Hitachi Group), h
 ## 🧠 About the Founder
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/3B82F6/FFFFFF?text=S.K." width="100" style="border-radius: 50%;">
+  <img src="http://opscart.com/wp-content/uploads/2026/02/shamsher-khan-profile.jpg" 
+       alt="Shamsher Khan, DevOps Engineer" 
+       width="180" 
+       style="border-radius: 50%; border: 4px solid #3B82F6; margin-bottom: 20px;">
 </div>
 
 ### **Shamsher Khan** · *“Shamz”*
